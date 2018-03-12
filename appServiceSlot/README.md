@@ -82,13 +82,13 @@ Deploying Bits from GitHub to your Deployment Slots
 
 5. Now that we have defined what project we would like to deploy from, we also need to select which branch we should deploy from click on the `Choose branch` button and select `master` from the displayed menu items and clike `OK`as seen in the folowing image.
 
-    ![Choose Project](./assets/chooseBranch.PNG)
+    ![Choose Branch](./assets/chooseBranch.PNG)
 
 Once you click `OK`, the `Azure Portal` will begin building the project and deploy it to your `slotAppService` production slot. 
 
 To set up deployment to our `slotAppServiceSlotOne`, we will follow the same steps as above except in **Step 1** we will click on the `slotAppServiceSlotOne` resource and in **Step 5** you will select the `working` branch instead of the `master` branch, as seen in the image below.
 
-![Choose Project](./assets/chooseBranchWorking.PNG)
+![Choose Working Branch](./assets/chooseBranchWorking.PNG)
 
 Putting It All Together
 ---
