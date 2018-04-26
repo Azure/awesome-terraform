@@ -1,3 +1,10 @@
+# Azure Terraform Resources
+
+- [Articles](http://aka.ms/tfhub) - Articles to get started with Terraform on Azure
+- [Reference](http://aka.ms/terraform) - Documentation on how to create specific Azure resources using the Azure Terraform provider
+- [Code](http://aka.ms/tfgit) - Source code repository of the Azure Terraform provider
+- [Project](http://aka.ms/tfkanban) - Kanban board showing current work being done on the Azure Terraform provider
+- [Marketplace](http://aka.ms/aztf) - Terraform instance hosted in Azure using shared identity and remote state
 
 # Contributing
 
