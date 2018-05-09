@@ -7,6 +7,7 @@
 - [Marketplace](http://aka.ms/aztf) - Terraform instance hosted in Azure using shared identity and remote state
 - [Build 2018 Demo - I](https://github.com/tombuildsstuff/microsoft-build2018) - Using multiple providers with Terraform 
 - [Build 2018 Demo - II](https://github.com/dcaro/build2018) - Deploying apps to Kubernetes using Terraform 
+- [Build 2018 Demo - III](https://raw.githubusercontent.com/vladimirjoanovic/build2018/master/TerraformOSSRP/DataDog/azuredeploy.json) - Using 3rd party providers in ARM Templates using TerraformOSS RP  
 
 # Contributing
 
