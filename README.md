@@ -5,6 +5,8 @@
 - [Code](http://aka.ms/tfgit) - Source code repository of the Azure Terraform provider
 - [Project](http://aka.ms/tfkanban) - Kanban board showing current work being done on the Azure Terraform provider
 - [Marketplace](http://aka.ms/aztf) - Terraform instance hosted in Azure using shared identity and remote state
+- [Build 2018 Demo - I](https://github.com/tombuildsstuff/microsoft-build2018) - Using multiple providers with Terraform 
+- [Build 2018 Demo - II](https://github.com/dcaro/build2018) - Deploying apps to Kubernetes using Terraform 
 
 # Contributing
 
