@@ -5,7 +5,8 @@
 - [Code](http://aka.ms/tfgit) - Source code repository of the Azure Terraform provider
 - [Project](http://aka.ms/tfkanban) - Kanban board showing current work being done on the Azure Terraform provider
 - [Marketplace](http://aka.ms/aztf) - Terraform instance hosted in Azure using shared identity and remote state
-- [Solution](http://aka.ms/azdotf) - Use Jenkins with Terraform and Packer to deploy to VM ScaleSets 
+- [Solution 1](http://aka.ms/azdotf) - Use Jenkins with Terraform and Packer to deploy to VM ScaleSets 
+- [Solution 2](https://open.microsoft.com/2018/05/23/immutable-infrastructure-azure-vsts-terraform-packer-ansible/) - Use VSTS with Terraform, Packer and Ansible to deploy to VM ScaleSets 
 - [Build 2018 Demo - I](https://github.com/tombuildsstuff/microsoft-build2018) - Using multiple providers with Terraform 
 - [Build 2018 Demo - II](https://github.com/dcaro/build2018) - Deploying apps to Kubernetes using Terraform 
 - [Build 2018 Demo - III](https://raw.githubusercontent.com/vladimirjoanovic/build2018/master/TerraformOSSRP/DataDog/azuredeploy.json) - Using 3rd party providers in ARM Templates using TerraformOSS RP  
