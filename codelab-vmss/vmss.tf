@@ -8,7 +8,7 @@ resource "random_string" "fqdn" {
   length  = 6
   special = false
   upper   = false
-  number  = false
+  number  = true
 }
 
 resource "azurerm_virtual_network" "vmss" {
